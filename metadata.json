@@ -1,0 +1,6 @@
+{
+  "name": "CertiVerse AI — Intelligent Global Certificate Creation Platform",
+  "description": "Enterprise-grade certificate creation, AI-powered design studio, bulk issuance, and tamper-proof cryptographic verification platform with global compliance packs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
